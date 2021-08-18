@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/path-finding-visualizer-web-app/static/css/main.197ec5e8.chunk.css",
+    "main.js": "/path-finding-visualizer-web-app/static/js/main.5738e5a4.chunk.js",
+    "main.js.map": "/path-finding-visualizer-web-app/static/js/main.5738e5a4.chunk.js.map",
+    "runtime-main.js": "/path-finding-visualizer-web-app/static/js/runtime-main.08295a1e.js",
+    "runtime-main.js.map": "/path-finding-visualizer-web-app/static/js/runtime-main.08295a1e.js.map",
+    "static/js/2.0cfb6acd.chunk.js": "/path-finding-visualizer-web-app/static/js/2.0cfb6acd.chunk.js",
+    "static/js/2.0cfb6acd.chunk.js.map": "/path-finding-visualizer-web-app/static/js/2.0cfb6acd.chunk.js.map",
+    "static/js/3.2d578496.chunk.js": "/path-finding-visualizer-web-app/static/js/3.2d578496.chunk.js",
+    "static/js/3.2d578496.chunk.js.map": "/path-finding-visualizer-web-app/static/js/3.2d578496.chunk.js.map",
+    "index.html": "/path-finding-visualizer-web-app/index.html",
+    "static/css/main.197ec5e8.chunk.css.map": "/path-finding-visualizer-web-app/static/css/main.197ec5e8.chunk.css.map",
+    "static/js/2.0cfb6acd.chunk.js.LICENSE.txt": "/path-finding-visualizer-web-app/static/js/2.0cfb6acd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/path-finding-visualizer-web-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08295a1e.js",
+    "static/js/2.0cfb6acd.chunk.js",
+    "static/css/main.197ec5e8.chunk.css",
+    "static/js/main.5738e5a4.chunk.js"
+  ]
+}
