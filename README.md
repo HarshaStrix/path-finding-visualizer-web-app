@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/67070120/129953948-e8a39253-a467-475c-
 # Path finding Visualizer Web App
 ## Description
 
-*  Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy     playing around with this visualization tool just as much as I enjoyed building it. 
+*  Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms (Dijkstra Algorithm here), and I wanted to visualize them in action. I hope that you enjoy     playing around with this visualization tool just as much as I enjoyed building it. 
 *  You can access it here (use Google Chrome!): https://harshastrix.github.io/path-finding-visualizer-web-app/
 
 ## Meet the Algorithm
