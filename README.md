@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/67070120/129953948-e8a39253-a467-475c-
 
 ## Author
 * Sree Harsha - aka [HarshaStrix][website]
-* My Portfolio Website - [(myfolio-strixblog)][website]
+* My Portfolio Website - [(Sree Harsha Donthamsetti)][website]
 
 [website]: https://donthamsettisreeharsha.web.app/
 
