@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/67070120/129953948-e8a39253-a467-475c-
 * Sree Harsha - aka [HarshaStrix][website]
 * My Portfolio Website - [(myfolio-strixblog)][website]
 
-[website]: https://myfolio-strixblog.web.app/
+[website]: https://donthamsettisreeharsha.web.app/
 
 ## More about the Algorithms
 
